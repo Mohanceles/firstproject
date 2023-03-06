@@ -1,0 +1,11 @@
+{
+"name" :"abi"
+"native" :"salem pettarap"
+"age" : "24"
+"hobbies" :"playing cricket","watching movies"
+"gender" :"male"
+"goals" :"want to marriage"
+"ph.no" :"6374048812"
+"married" :"coming soon"
+"no of kids" :"still planning".
+}
