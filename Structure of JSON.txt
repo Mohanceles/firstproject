@@ -1,11 +1,11 @@
 {
 "name" :"abi"
-"native" :"salem pettarap"
+"native" :"salem city"
 "age" : "24"
 "hobbies" :"playing cricket","watching movies"
 "gender" :"male"
-"goals" :"want to marriage"
+"goals" :"want to become QA"
 "ph.no" :"6374048812"
-"married" :"coming soon"
-"no of kids" :"still planning".
+"married" :"never"
+"no of kids" :"no idea".
 }
